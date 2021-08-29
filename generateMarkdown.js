@@ -47,10 +47,19 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 
-function renderLicenseBadge(license) {
-    if (license === "The_Unlicense") return "";
-    return `[![${license}](https://img.shields.io/badge/license-${license}-blue)](${renderLicenseLink(license)})`
-};
+// function renderLicesnse(licencse) {
+//     let spot;
+//     const [badge, link] = renderLicenseBadge(licencse);
+//     if (licencse === "none") {
+//         spot = "";
+//         content = "";
+//     } else {
+//         spot = `# License ${badge}
+//         This project uses the ${licencse} license.
+//         ${link}`
+//     }
+//     return [spot, content];
+// }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
