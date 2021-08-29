@@ -1,39 +1,8 @@
-https://choosealicense.com/licenses/mit/
-    
-    #bob undefined ![img]()
+# ReadMe Generator
+Homework 9
 
-    ## Table of Contents
-    -[Description](#Description)
-    -[Installation](#Installation)
-    -[Usage](#Usage)
-    -[License](#License)
-    -[Contributors](#Contributors)
-    -[Test](#Test)
-    -[Email](#Email)
-    -[Github](#Github)
+## Description
+This develops a README by prompting users to put in information about their project. It was built using JS and Node.js.
 
-    ## Description
-    bobo
-
-    ## Installation
-    undefined
-
-    ## Usage
-    bobob
-
-    ## License
-    MIT
-
-    ## Contributors
-    bobob
-
-    ## Test
-    bobob
-
-    ## Email with any further questions
-    bobo
-
-    ## GitHub
-    bobo
-
-    
+## Installation and Usage
+Run the program in the terminal by typing "node index.js" then answering the prompts.
