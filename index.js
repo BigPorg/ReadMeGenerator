@@ -28,12 +28,12 @@ const questions = [
         type: "list",
         message: "Choose a license",
         name: "license",
-        choices: [],
+        choices: ["MIT", "Mozilla", "Apache", "GNU APLv3", "GNU GPLv3", "GNU LGPLv3", "Boost", "Unilicense"],
     },
     {
         type: "input",
-        message: "Enter guidlines",
-        name: "guidlines",
+        message: "Enter contributors",
+        name: "contributors",
     },
     {
         type: "input",
